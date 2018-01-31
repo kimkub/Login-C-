@@ -1,0 +1,11 @@
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\CS26\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form2.resources
